@@ -1,5 +1,6 @@
-### Hello There
-- ⚡ Fun fact: When you eat pizza, you eat pizza
+### Who am I?
+- completely normal and 
+- ⚡ Fun fact: There are more possible iterations of a game of chess than there are atoms in the known universe
 <!--
 **OriginalStefikO/OriginalStefikO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
