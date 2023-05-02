@@ -1,10 +1,10 @@
 # Hi, I'm Ondrej 👋
 
-I'm a software engineer and a web developer based in Brno, Czech Republic. I have a passion for creating beautiful and functional websites using modern technologies.
+I'm a software engineer and a web developer based in Brno, Czech Republic. I have a passion for creating beautiful and functional websites using modern technologies and much more.
 
 ## Skills and Experience
 - 💻 HTML, CSS, JavaScript, TypeScript
-- 🌐 Svelte, React
+- 🌐 Svelte, NextJS
 - 🛢 Django, FastAPI
 - 🔧 Git, GitHub, VS Code
 - 🎨 Blender, Photoshop, Figma, and more
