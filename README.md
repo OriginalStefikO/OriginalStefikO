@@ -12,7 +12,7 @@ I'm a software engineer and a web developer based in Brno, Czech Republic. I hav
 ## Projects
 Here are some of the most recent projects I have worked on
 - [FastAPI-Svelte-starter](https://github.com/OriginalStefikO/fastapi-svelte-starter): Tutorial on how to combine FastAPI and Svelte
-- [Svelte-Python-8-puzzle](https://github.com/OriginalStefikO/svelte-8-puzzle): Python 8 puzzle solver using a* algorithm with Svelte for user friendly interface
+- [Svelte-Python-8-puzzle](https://github.com/OriginalStefikO/svelte-puzzle-8): Python 8 puzzle solver using a* algorithm with Svelte for user friendly interface
 
 And these are some of my older projects, where it all started
 - [Article image generator](https://github.com/aicheck-tech/article-image-generator): Generates images for inserted articles
